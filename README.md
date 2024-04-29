@@ -32,7 +32,7 @@ The queries listed below are those that your client (the manager from the packag
 
 They may provide further hints about database design, so think about them at the outset of the project.
 
-+ AssumethepackageshippedbyUSPSwithtrackingnumber123456isreported to have been destroyed in an accident. Find the contact information for the customer. Also, find the contents of that shipment and create a new shipment of replacement items.
++ Assume the package shipped by USPS with tracking number 123456 is reported to have been destroyed in an accident. Find the contact information for the customer. Also, find the contents of that shipment and create a new shipment of replacement items.
 + Find the customer who has bought the most (by price) in the past year. • Find the top 2 products by dollar-amount sold in the past year.
 + Find the top 2 products by unit sales in the past year.
 + Find those products that are out-of-stock at every store in California. • Find those packages that were not delivered within the promised time. • Generate the bill for each customer for the past month.
