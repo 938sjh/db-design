@@ -1,6 +1,7 @@
 <h2>mySQL vendor company RDBMS design project</h2>
 
 <h3>ER Model을 설계한 뒤 BCNF로 정규화</h3>
+<img src='https://github.com/938sjh/db-design/assets/63846952/74748be9-76cd-4285-ad82-9315df92e9d2'/>
 
 <h3>Requirements</h3>
 
